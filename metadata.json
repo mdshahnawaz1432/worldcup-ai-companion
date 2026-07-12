@@ -1,0 +1,6 @@
+{
+  "name": "WorldCup AI Companion",
+  "description": "The smartest real-time World Cup companion powered by TxLINE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
